@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "antd": "^3.10.1",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "lodash": "^4.17.11",
     "normalizr": "^3.3.0",
     "re-reselect": "^2.1.0",
